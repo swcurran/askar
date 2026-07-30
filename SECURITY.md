@@ -52,11 +52,11 @@ finders to report through the following approved channel:
 
 The current security team is:
 
-| Name             | Email ID                 | OWF Discord Chat ID | Area/Specialty     |
-| ---------------- | ------------------------ | ------------------- | ------------------ |
-| Stephen Curran   | swcurran@cloudcompass.ca | swcurran            | Generalist         |
-| Andrew Whitehead | cywolf@gmail.com         | andrewwhitehead     | Rust               |
-| Wade Barnes      | wade@neoterictech.ca     | wadebarnes          | GHA and Deployment |
+| Name             | OWF Discord Chat ID | Area/Specialty     |
+| ---------------- | ------------------- | ------------------ |
+| Stephen Curran   | swcurran            | Generalist         |
+| Andrew Whitehead | andrewwhitehead     | Rust               |
+| Wade Barnes      | wadebarnes          | GHA and Deployment |
 
 The security team for this project must include at least three project
 Maintainers that agree to carry out the following duties and responsibilities.

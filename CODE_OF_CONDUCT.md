@@ -1,7 +1,7 @@
 # Askar Code of Conduct Policy
 
-The Askar project uses the [LF Europe Code of Conduct], which can be found by clicking "Code of Conduct" in the table of contents of the [LF Europe Policies] PDF document.
+The Askar project uses the [LF Europe Code of Conduct].
 
-[LF Europe Policies]: https://www.linuxfoundation.org/hubfs/lfeu_policies_exhibitb_051024b.pdf?hsLang=en
+[LF Europe Code of Conduct]: https://linuxfoundation.eu/policies/code-of-conduct
 
 Let's all be good to one another!
